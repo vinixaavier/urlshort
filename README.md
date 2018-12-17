@@ -1,6 +1,6 @@
 # GoQuiz
 
-[![Golang](https://www.clipartmax.com/png/middle/111-1112331_how-couldnt-you-love-him-gopher-mic-drop.png)](https://golang.org/doc/code.html)
+[![Golang](https://www.clipartmax.com/png/middle/111-1112331_how-couldnt-you-love-him-gopher-mic-drop.png =100x200)](https://golang.org/doc/code.html)
 
 Urlshort is a program that will look at the path of any incoming web request and redirect the user a new page if exists, like a bit.ly.
 
